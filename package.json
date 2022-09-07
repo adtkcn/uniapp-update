@@ -1,6 +1,6 @@
 {
   "name": "uniapp-update",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "支持uniapp整包更新、wgt热更新",
   "main": "index.js",
   "scripts": {
