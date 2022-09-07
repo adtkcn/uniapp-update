@@ -1,14 +1,27 @@
 {
   "name": "uniapp-update",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "支持uniapp整包更新、wgt热更新",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "xh",
   "license": "ISC",
   "directories": {
     "example": "example"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adtkcn/uniapp-update.git"
+  },
+  "keywords": [
+    "uniapp",
+    "update",
+    "adtk.cn"
+  ],
+  "bugs": {
+    "url": "https://github.com/adtkcn/uniapp-update/issues"
+  },
+  "homepage": "https://github.com/adtkcn/uniapp-update#readme"
 }
